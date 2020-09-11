@@ -1,0 +1,18 @@
+.interet {
+  background: url("../../images/bg-interet.jpg") 100% no-repeat fixed;
+
+
+  .conteneur {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  h3 {
+    margin: 66px 0 18px 0;
+  }
+}

@@ -1,0 +1,18 @@
+.citation {
+  background: url("../../images/bg-citation.jpg") 0 50%/100% no-repeat fixed;
+  height: 404px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+  p {
+    color: white;
+  }
+
+  h3 {
+    color: white;
+    margin: 0;
+  }
+}

@@ -1,0 +1,22 @@
+.cartes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 0 42px 0;
+}
+
+.carte {
+  width: 352px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--couleur-blanc);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin: 0 0 40px 0;
+
+
+  img {
+    width: 151px;
+  }
+}
