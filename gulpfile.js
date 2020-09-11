@@ -104,7 +104,7 @@ const serveur = function () {
         navigateur = ["firefox", "google chrome"];
     }
     else {
-        navigateur = ["firefox", "chrome"];
+        navigateur = "firefox";
     }
 
 
